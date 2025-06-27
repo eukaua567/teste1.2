@@ -71,7 +71,23 @@ const messages = [
     "mas aquela coisa de amigo sabe",
     "ta pensando em fazer oq esse final de semana?",
     "tipo acabei de pegar umas fita aqui, chega ai pra nos torrar",
-    "quase tudo ai é brincadeira kkkkkkkkkkkkkkkkkkkkkkkkkkk"
+    "quase tudo ai é brincadeira kkkkkkkkkkkkkkkkkkkkkkkkkkk",
+    "cabou",
+    "cabou",
+    "cabou",
+    "cabou",
+    "sexo?",
+    "hoje",
+    "as 21 na minha casa",
+    "se arruma",
+    "passo ai 19h", 
+    "vamos primero lá",
+    "fim", 
+    "cabou",
+    "agr é serio",
+    "proximo ja vai reptir"
+    
+     
 ];
 
 let messageIndex = 0;
